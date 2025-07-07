@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I’m a freelance web developer and brand identity specialist. I craft responsive websites, intuitive UX/UI, and cohesive brand experiences. Skilled in **HTML**, **CSS**, **PHP**, **Laravel**, **JavaScript** (jQuery, React, Vue.js), **SEO**, and **email marketing campaigns**.
+I’m a freelance web developer and brand identity specialist. I craft responsive websites, intuitive UX/UI, and cohesive brand experiences. Skilled in **HTML**, **CSS**, **PHP**, **Laravel**, **JavaScript** (jQuery, React, Vue.js, WordPress), **SEO**, and **email marketing campaigns**.
 
 ---
 
