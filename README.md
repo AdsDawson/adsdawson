@@ -15,6 +15,7 @@
 I’m a freelance web developer and brand identity specialist. I craft responsive websites, intuitive UX/UI, and cohesive brand experiences. I also work with any issues you may discover on your unresponsive/responsive websites, mobile websites and WordPress websites. Skilled in **HTML**, **CSS**, **PHP**, **Laravel**, **JavaScript** (jQuery, React, Vue.js, WordPress), **SEO**, and **email marketing campaigns**.
 
 If you need a job done quickly and efficiently but don't want the hassle of getting into a yearly contract I provide a per job service for agencies and individuals.
+
 ---
 
 ## 🛠️ Services
