@@ -5,7 +5,7 @@
 **Creative Full Stack Developer** from **Yorkshire, UK**.
 
 [![Website](https://img.shields.io/badge/Website-dawsony.com-36648B?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://dawsony.com/)  
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-%E2%9C%85-00C853?style=for-the-badge)](https://dawsony.com/hire-me)
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-%E2%9C%85-00C853?style=for-the-badge)](https://dawsony.com#contact)
 
 ---
 
