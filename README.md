@@ -37,6 +37,7 @@ I’m a freelance web developer and brand identity specialist. I craft responsiv
   <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
   <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
   <img align="left" alt="Vue.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" />
+  <img align="left" alt="WordPress" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/wordpress/wordpress.png" />
 </div>
 <br clear="left" />
 
@@ -55,7 +56,7 @@ I’m a freelance web developer and brand identity specialist. I craft responsiv
 
 <p align="left">
   <a href="https://dawsony.com/contact" target="_blank"><img align="center" src="https://img.shields.io/badge/Contact-Dawsony.com-36648B?style=for-the-badge" /></a>
-  <a href="mailto:hello@dawsony.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-hello@dawsony.com-36648B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:info@dawsony.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-hello@dawsony.com-36648B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
