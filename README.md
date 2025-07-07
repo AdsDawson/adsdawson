@@ -46,28 +46,10 @@ I’m a freelance web developer and brand identity specialist. I craft responsiv
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://your-deploy.vercel.app/api?
-      username=adsdawson
-      &show_icons=true
-      &theme=tokyonight
-      &commits_year=2025
-      &count_private=true
-      &include_all_commits=true
-      &cache_seconds=3600"
-    alt="GitHub Stats (incl. private)" />
-  <img
-    src="https://your-deploy.vercel.app/api/top-langs?
-      username=adsdawson
-      &layout=compact
-      &theme=tokyonight
-      &count_private=true"
-    alt="Top Languages (incl. private)" />
+  <img src="https://your-deploy.vercel.app/api?username=adsdawson&show_icons=true&theme=tokyonight&commits_year=2025&count_private=true&include_all_commits=true&cache_seconds=3600" alt="GitHub Stats (incl. private)" />
+  <img src="https://your-deploy.vercel.app/api/top-langs?username=adsdawson&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages (incl. private)" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/adsdawson" alt="GitHub Contributions Chart" />
-</p>
 ---
 
 ## 📫 Connect with Me
