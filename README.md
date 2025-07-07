@@ -1,17 +1,6 @@
-<p align="center">
-  <svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 530">
-    <style>
-      tspan { white-space:pre }
-      .shp0 { fill: #36648b;stroke: #ffffff;stroke-width: 30 }
-      .shp1 { fill: #ffffff }
-    </style>
-    <path id="Layer 1" class="shp0" d="M267.5 501C137.27 501 32 395.73 32 265.5C32 135.27 137.27 30 267.5 30C397.73 30 503 135.27 503 265.5C503 395.73 397.73 501 267.5 501Z"/>
-    <path id="Layer 2" class="shp1" d="M267.23 150.05L267.23 176.71L204 176.71L204 351.18L268 351.18L268 379.38L172 379.38L172 150L267.23 150.05Z"/>
-    <path id="Shape 1" class="shp1" d="M297.77 149.77C297.77 149.77 398.33 152.85 398 259.95C397.67 367.05 297 380.03 297 380.03C297 380.03 297 351.8 297 351.79C297 351.79 367.39 336.31 367.39 259.95C367.39 183.58 297 176.56 297 176.56L297 149"/>
-  </svg>
-</p>
 
-# Hi, I'm **Dawson Y** 👋
+
+# Hi, I'm **Dawsony** 👋
 
 **Creative Full Stack Developer** from **Yorkshire, UK**.
 
