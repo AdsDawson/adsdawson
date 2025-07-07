@@ -47,3 +47,9 @@ I’m a freelance web developer and brand identity specialist. I craft responsiv
 ---
 
 > “I build digital experiences that connect people and brands.”
+
+## 📫 Get in Touch
+
+- 📧 hello@dawsony.com  
+- 🌐 [dawsony.com/contact](https://dawsony.com/#contact)  
+- 🔗 [LinkedIn]([https://linkedin.com/in/adsdawson](https://www.linkedin.com/in/dawsonyweb/))  
