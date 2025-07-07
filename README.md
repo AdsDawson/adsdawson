@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-dawsony.com-36648B?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://dawsony.com/)  
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-%E2%9C%85-00C853?style=for-the-badge)](https://dawsony.com#contact)
-[![Open for work](https://img.shields.io/badge/Open%20for%20Work-Yes-brightgreen)](https://dawsony.com/hire-me)
+[![Open for work](https://img.shields.io/badge/Open%20for%20Work-Yes-brightgreen)](https://dawsony.com#contact)
 
 ---
 
@@ -53,5 +53,5 @@ If you need a job done quickly and efficiently but don't want the hassle of gett
 ## 📫 Get in Touch
 
 - 📧 hello@dawsony.com  
-- 🌐 [dawsony.com/contact](https://dawsony.com/#contact)  
+- 🌐 [dawsony.com/contact](https://dawsony.com#contact)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dawsonyweb/)  
