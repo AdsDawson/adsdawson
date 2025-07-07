@@ -52,4 +52,4 @@ I’m a freelance web developer and brand identity specialist. I craft responsiv
 
 - 📧 hello@dawsony.com  
 - 🌐 [dawsony.com/contact](https://dawsony.com/#contact)  
-- 🔗 [LinkedIn]([https://linkedin.com/in/adsdawson](https://www.linkedin.com/in/dawsonyweb/))  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dawsonyweb/)  
