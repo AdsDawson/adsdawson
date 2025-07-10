@@ -52,6 +52,6 @@ If you need a job done quickly and efficiently but don't want the hassle of gett
 
 ## 📫 Get in Touch
 
-- 📧 hello@dawsony.com  
+- 📧 info@dawsony.com  
 - 🌐 [dawsony.com/contact](https://dawsony.com#contact)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dawsonyweb/)  
